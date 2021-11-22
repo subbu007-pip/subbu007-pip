@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subbu007-pip&label=Profile%20views&color=0e75b6&style=flat" alt="subbu007-pip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subbu007-pip" alt="subbu007-pip" /></a> </p>
+<p align="left"> <a href="https://twitter.com/subbu14803763" target="blank"><img src="https://img.shields.io/twitter/follow/subbu14803763?logo=twitter&style=for-the-badge" alt="subbu14803763" /></a> </p>
 
-- 🔭 I’m currently working on **Spacecraft game**
+- 🔭 I’m currently working on **simple project**
 
 - 🌱 I’m currently learning **every thing**
 
