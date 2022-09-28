@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **programming basic,problem solving**
 
-- 📫 How to reach me **subbu789gg@gamil.com**
+- 📫 How to reach me **subbu789gg@gmail.com**
 
 - ⚡ Fun fact **i think i'am happy person**
 
