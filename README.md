@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/subbu14803763" target="blank"><img src="https://img.shields.io/twitter/follow/subbu14803763?logo=twitter&style=for-the-badge" alt="subbu14803763" /></a> </p>
 
-- 🔭 I’m currently working on **simple project**
+- 🔭 I’m currently working on **simple projects**
 
-- 🌱 I’m currently learning **every thing**
+- 🌱 I’m currently learning **everything**
 
 - 💬 Ask me about **programming basic,problem solving**
 
 - 📫 How to reach me **subbu789gg@gmail.com**
 
-- ⚡ Fun fact **i think i'am happy person**
+- ⚡ Fun fact **I think I'am Happy Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
