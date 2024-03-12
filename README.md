@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subbu14803763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subbu14803763" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subbu hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subbu hegde" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/subbu hegde](https://www.linkedin.com/in/subrahmanya-h-b9b9a8226/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subbu hegde" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/subbu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subbu007" height="30" width="40" /></a>
 <a href="https://kaggle.com/subbu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subbu007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hegde007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hegde007" height="30" width="40" /></a>
