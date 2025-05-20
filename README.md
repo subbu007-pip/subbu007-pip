@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm subrahmanya</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">-------------:GG:-----------------</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subbu007-pip&label=Profile%20views&color=0e75b6&style=flat" alt="subbu007-pip" /> </p>
 
